@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 
 @Entity
 @Data
-@Getter
 @AllArgsConstructor
 @NoArgsConstructor
 @Table(name = "book")
